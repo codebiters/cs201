@@ -6,13 +6,13 @@ int main(int argc, char** argv)
     int c[100];
     int z, i = 0;
     do {
-        cout<<"Please enter the number (-1 to end input): "<<endl;
-        cin>>z;
-        if(z != -1){
+        cout << "Please enter the number (-1 to end input): " << endl;
+        cin >> z;
+        if(z != -1) {
             c[i] = z;
         }
         i++;
-    } while (z != -1 && i < 100);
-    
-    cout<<"The total number positive integers entered by user is "<<i-1;
+    } while(z != -1 && i < 100);
+
+    cout << "The total number positive integers entered by user is " << i - 1;
 }

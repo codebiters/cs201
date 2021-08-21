@@ -1,97 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="cs201" Database="" Version="10000">
-  <Project Name="Lecture4_Example1" Path="Example1/Example1.project" Active="No"/>
-  <Project Name="Lecture4_Example2" Path="Example2/Example2.project" Active="No"/>
-  <Project Name="Lecture4_Example3" Path="Example3/Example3.project" Active="No"/>
-  <Project Name="Lecture5_Example1" Path="Lecture5_Example1/Lecture5_Example1.project" Active="No"/>
-  <Project Name="Lecture5_Example2" Path="Lecture5_Example2/Lecture5_Example2.project" Active="No"/>
-  <Project Name="Lecture6_Example1" Path="Lecture6_Example1/Lecture6_Example1.project" Active="No"/>
-  <Project Name="Lecture6_Example2" Path="Lecture6_Example2/Lecture6_Example2.project" Active="No"/>
-  <Project Name="Lecture6_Example3" Path="Lecture6_Example3/Lecture6_Example3.project" Active="No"/>
-  <Project Name="Lecture7_Example1" Path="Lecture7_Example1/Lecture7_Example1.project" Active="No"/>
-  <Project Name="Lecture7_Example2" Path="Lecture7_Example2/Lecture7_Example2.project" Active="No"/>
-  <Project Name="Lecture7_Example3" Path="Lecture7_Example3/Lecture7_Example3.project" Active="No"/>
-  <Project Name="Lecture7_Example4" Path="Lecture7_Example4/Lecture7_Example4.project" Active="No"/>
-  <Project Name="Lecture8_Example1" Path="Lecture8_Example1/Lecture8_Example1.project" Active="No"/>
-  <Project Name="Lecture8_Example2" Path="Lecture8_Example2/Lecture8_Example2.project" Active="No"/>
-  <Project Name="Lecture9_Example1" Path="Lecture9_Example1/Lecture9_Example1.project" Active="No"/>
-  <Project Name="Lecture9_Example2" Path="Lecture9_Example2/Lecture9_Example2.project" Active="No"/>
-  <Project Name="Lecture9_Example3" Path="Lecture9_Example3/Lecture9_Example3.project" Active="No"/>
-  <Project Name="Lecture9_Example4" Path="Lecture9_Example4/Lecture9_Example4.project" Active="No"/>
   <Project Name="Lecture11_Example1" Path="Lecture11_Example1/Lecture11_Example1.project" Active="No"/>
   <Project Name="Lecture11_Example2" Path="Lecture11_Example2/Lecture11_Example2.project" Active="No"/>
   <Project Name="Lecture11_Example3" Path="Lecture11_Example3/Lecture11_Example3.project" Active="No"/>
   <Project Name="Lecture12_Example1" Path="Lecture12_Example1/Lecture12_Example1.project" Active="No"/>
   <Project Name="Lecture12_Example2" Path="Lecture12_Example2/Lecture12_Example2.project" Active="No"/>
-  <Project Name="Lecture12_Example3" Path="Lecture12_Example3/Lecture12_Example3.project" Active="Yes"/>
+  <Project Name="Lecture12_Example3" Path="Lecture12_Example3/Lecture12_Example3.project" Active="No"/>
+  <Project Name="Lecture13_Example1" Path="Lecture13_Example1/Lecture13_Example1.project" Active="No"/>
+  <Project Name="Example1" Path="Lecture04_Example1/Example1.project" Active="No"/>
+  <Project Name="Example2" Path="Lecture04_Example2/Example2.project" Active="No"/>
+  <Project Name="Example3" Path="Lecture04_Example3/Example3.project" Active="No"/>
+  <Project Name="Lecture5_Example1" Path="Lecture05_Example1/Lecture5_Example1.project" Active="No"/>
+  <Project Name="Lecture5_Example2" Path="Lecture05_Example2/Lecture5_Example2.project" Active="No"/>
+  <Project Name="Lecture6_Example1" Path="Lecture06_Example1/Lecture6_Example1.project" Active="No"/>
+  <Project Name="Lecture6_Example2" Path="Lecture06_Example2/Lecture6_Example2.project" Active="No"/>
+  <Project Name="Lecture6_Example3" Path="Lecture06_Example3/Lecture6_Example3.project" Active="No"/>
+  <Project Name="Lecture7_Example1" Path="Lecture07_Example1/Lecture7_Example1.project" Active="No"/>
+  <Project Name="Lecture7_Example2" Path="Lecture07_Example2/Lecture7_Example2.project" Active="No"/>
+  <Project Name="Lecture7_Example3" Path="Lecture07_Example3/Lecture7_Example3.project" Active="No"/>
+  <Project Name="Lecture7_Example4" Path="Lecture07_Example4/Lecture7_Example4.project" Active="No"/>
+  <Project Name="Lecture8_Example1" Path="Lecture08_Example1/Lecture8_Example1.project" Active="No"/>
+  <Project Name="Lecture8_Example2" Path="Lecture08_Example2/Lecture8_Example2.project" Active="No"/>
+  <Project Name="Lecture9_Example1" Path="Lecture09_Example1/Lecture9_Example1.project" Active="No"/>
+  <Project Name="Lecture9_Example2" Path="Lecture09_Example2/Lecture9_Example2.project" Active="No"/>
+  <Project Name="Lecture9_Example3" Path="Lecture09_Example3/Lecture9_Example3.project" Active="No"/>
+  <Project Name="Lecture9_Example4" Path="Lecture09_Example4/Lecture9_Example4.project" Active="No"/>
+  <Project Name="Lecture13_Example2" Path="Lecture13_Example2/Lecture13_Example2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
-      <Project Name="Lecture4_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example3" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example3" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture4_Example3" ConfigName="Debug"/>
-      <Project Name="Lecture5_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture5_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture6_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture6_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture6_Example3" ConfigName="Debug"/>
-      <Project Name="Lecture7_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture7_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture7_Example3" ConfigName="Debug"/>
-      <Project Name="Lecture7_Example4" ConfigName="Debug"/>
-      <Project Name="Lecture8_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture8_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture9_Example1" ConfigName="Debug"/>
-      <Project Name="Lecture9_Example2" ConfigName="Debug"/>
-      <Project Name="Lecture9_Example3" ConfigName="Debug"/>
-      <Project Name="Lecture9_Example4" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture05_Example01" ConfigName="Debug"/>
+      <Project Name="Lecture05_Example02" ConfigName="Debug"/>
+      <Project Name="Lecture06_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture06_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture06_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example4" ConfigName="Debug"/>
+      <Project Name="Lecture08_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture08_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example4" ConfigName="Debug"/>
       <Project Name="Lecture11_Example1" ConfigName="Debug"/>
       <Project Name="Lecture11_Example2" ConfigName="Debug"/>
       <Project Name="Lecture11_Example3" ConfigName="Debug"/>
       <Project Name="Lecture12_Example1" ConfigName="Debug"/>
       <Project Name="Lecture12_Example2" ConfigName="Debug"/>
       <Project Name="Lecture12_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture13_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture04_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture05_Example01" ConfigName="Debug"/>
+      <Project Name="Lecture05_Example02" ConfigName="Debug"/>
+      <Project Name="Lecture06_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture06_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture06_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture07_Example4" ConfigName="Debug"/>
+      <Project Name="Lecture08_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture08_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example1" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example3" ConfigName="Debug"/>
+      <Project Name="Lecture09_Example4" ConfigName="Debug"/>
+      <Project Name="Lecture13_Example2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
-      <Project Name="Lecture4_Example1" ConfigName="Release"/>
-      <Project Name="Lecture4_Example2" ConfigName="Release"/>
-      <Project Name="Lecture4_Example3" ConfigName="Release"/>
-      <Project Name="Lecture4_Example1" ConfigName="Release"/>
-      <Project Name="Lecture4_Example1" ConfigName="Release"/>
-      <Project Name="Lecture4_Example2" ConfigName="Release"/>
-      <Project Name="Lecture4_Example3" ConfigName="Release"/>
-      <Project Name="Lecture4_Example1" ConfigName="Release"/>
-      <Project Name="Lecture4_Example2" ConfigName="Release"/>
-      <Project Name="Lecture4_Example3" ConfigName="Release"/>
-      <Project Name="Lecture5_Example1" ConfigName="Release"/>
-      <Project Name="Lecture5_Example2" ConfigName="Release"/>
-      <Project Name="Lecture6_Example1" ConfigName="Release"/>
-      <Project Name="Lecture6_Example2" ConfigName="Release"/>
-      <Project Name="Lecture6_Example3" ConfigName="Release"/>
-      <Project Name="Lecture7_Example1" ConfigName="Release"/>
-      <Project Name="Lecture7_Example2" ConfigName="Release"/>
-      <Project Name="Lecture7_Example3" ConfigName="Release"/>
-      <Project Name="Lecture7_Example4" ConfigName="Release"/>
-      <Project Name="Lecture8_Example1" ConfigName="Release"/>
-      <Project Name="Lecture8_Example2" ConfigName="Release"/>
-      <Project Name="Lecture9_Example1" ConfigName="Release"/>
-      <Project Name="Lecture9_Example2" ConfigName="Release"/>
-      <Project Name="Lecture9_Example3" ConfigName="Release"/>
-      <Project Name="Lecture9_Example4" ConfigName="Release"/>
+      <Project Name="Lecture04_Example1" ConfigName="Release"/>
+      <Project Name="Lecture04_Example2" ConfigName="Release"/>
+      <Project Name="Lecture04_Example3" ConfigName="Release"/>
+      <Project Name="Lecture04_Example1" ConfigName="Release"/>
+      <Project Name="Lecture04_Example1" ConfigName="Release"/>
+      <Project Name="Lecture04_Example2" ConfigName="Release"/>
+      <Project Name="Lecture04_Example3" ConfigName="Release"/>
+      <Project Name="Lecture04_Example1" ConfigName="Release"/>
+      <Project Name="Lecture04_Example2" ConfigName="Release"/>
+      <Project Name="Lecture04_Example3" ConfigName="Release"/>
+      <Project Name="Lecture05_Example01" ConfigName="Release"/>
+      <Project Name="Lecture05_Example02" ConfigName="Release"/>
+      <Project Name="Lecture06_Example1" ConfigName="Release"/>
+      <Project Name="Lecture06_Example2" ConfigName="Release"/>
+      <Project Name="Lecture06_Example3" ConfigName="Release"/>
+      <Project Name="Lecture07_Example1" ConfigName="Release"/>
+      <Project Name="Lecture07_Example2" ConfigName="Release"/>
+      <Project Name="Lecture07_Example3" ConfigName="Release"/>
+      <Project Name="Lecture07_Example4" ConfigName="Release"/>
+      <Project Name="Lecture08_Example1" ConfigName="Release"/>
+      <Project Name="Lecture08_Example2" ConfigName="Release"/>
+      <Project Name="Lecture09_Example1" ConfigName="Release"/>
+      <Project Name="Lecture09_Example2" ConfigName="Release"/>
+      <Project Name="Lecture09_Example3" ConfigName="Release"/>
+      <Project Name="Lecture09_Example4" ConfigName="Release"/>
       <Project Name="Lecture11_Example1" ConfigName="Release"/>
       <Project Name="Lecture11_Example2" ConfigName="Release"/>
       <Project Name="Lecture11_Example3" ConfigName="Release"/>
       <Project Name="Lecture12_Example1" ConfigName="Release"/>
       <Project Name="Lecture12_Example2" ConfigName="Release"/>
       <Project Name="Lecture12_Example3" ConfigName="Release"/>
+      <Project Name="Lecture13_Example1" ConfigName="Release"/>
+      <Project Name="Lecture04_Example1" ConfigName="Release"/>
+      <Project Name="Lecture04_Example2" ConfigName="Release"/>
+      <Project Name="Lecture04_Example3" ConfigName="Release"/>
+      <Project Name="Lecture05_Example01" ConfigName="Release"/>
+      <Project Name="Lecture05_Example02" ConfigName="Release"/>
+      <Project Name="Lecture06_Example1" ConfigName="Release"/>
+      <Project Name="Lecture06_Example2" ConfigName="Release"/>
+      <Project Name="Lecture06_Example3" ConfigName="Release"/>
+      <Project Name="Lecture07_Example1" ConfigName="Release"/>
+      <Project Name="Lecture07_Example2" ConfigName="Release"/>
+      <Project Name="Lecture07_Example3" ConfigName="Release"/>
+      <Project Name="Lecture07_Example4" ConfigName="Release"/>
+      <Project Name="Lecture08_Example1" ConfigName="Release"/>
+      <Project Name="Lecture08_Example2" ConfigName="Release"/>
+      <Project Name="Lecture09_Example1" ConfigName="Release"/>
+      <Project Name="Lecture09_Example2" ConfigName="Release"/>
+      <Project Name="Lecture09_Example3" ConfigName="Release"/>
+      <Project Name="Lecture09_Example4" ConfigName="Release"/>
+      <Project Name="Lecture13_Example2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
