@@ -25,7 +25,8 @@
   <Project Name="Lecture9_Example2" Path="Lecture09_Example2/Lecture9_Example2.project" Active="No"/>
   <Project Name="Lecture9_Example3" Path="Lecture09_Example3/Lecture9_Example3.project" Active="No"/>
   <Project Name="Lecture9_Example4" Path="Lecture09_Example4/Lecture9_Example4.project" Active="No"/>
-  <Project Name="Lecture13_Example2" Path="Lecture13_Example2/Lecture13_Example2.project" Active="Yes"/>
+  <Project Name="Lecture13_Example2" Path="Lecture13_Example2/Lecture13_Example2.project" Active="No"/>
+  <Project Name="Lecture13_Example3" Path="Lecture13_Example3/Lecture13_Example3.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -80,6 +81,7 @@
       <Project Name="Lecture09_Example3" ConfigName="Debug"/>
       <Project Name="Lecture09_Example4" ConfigName="Debug"/>
       <Project Name="Lecture13_Example2" ConfigName="Debug"/>
+      <Project Name="Lecture13_Example3" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -134,6 +136,7 @@
       <Project Name="Lecture09_Example3" ConfigName="Release"/>
       <Project Name="Lecture09_Example4" ConfigName="Release"/>
       <Project Name="Lecture13_Example2" ConfigName="Release"/>
+      <Project Name="Lecture13_Example3" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -7,14 +7,14 @@ int isEven(int);
 int main(int argc, char** argv)
 {
     int number;
-    
-    cout<<"Please enter the number: ";
-    cin>>number;
-    
-    if(isEven(number)){
-        cout<<"The number entered is even"<<endl;
+
+    cout << "Please enter the number: ";
+    cin >> number;
+
+    if(isEven(number)) {
+        cout << "The number entered is even" << endl;
     } else {
-        cout<<"The number entered is odd"<<endl;
+        cout << "The number entered is odd" << endl;
     }
 }
 
